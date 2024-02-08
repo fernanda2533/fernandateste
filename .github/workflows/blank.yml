@@ -28,9 +28,7 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - run: git status
-      - runs:
-        using: 'node20'
-        main: 'main.js'
+    
 
       # Para as atualizações.
       - name: Push changes
