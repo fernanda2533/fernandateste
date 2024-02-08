@@ -21,8 +21,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubcodes
   <a href = "mailto:fernandavic253@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/engfernandarodrigues?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&loglinkedin&logoColor=white" target="_blank"></a> 
   
-</div> 
-
-![snake gif](https://github.com/fernanda2533/fernanda2533/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/fernanda2533/fernanda2533/blob/output/github-contribution-grid-snake.svg) 
+</div>
 
           
