@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Fernanda Rodrigues 👩🏻‍💻
 - 👩🏻‍💻 Hoje estou em busca de estágio
-- 📚 Estudando linguagem C
+- 📚 Estudando linguagem Java
 - 👩🏻 Pronouns: ela/dela
 
   
