@@ -7,7 +7,7 @@
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=fernanda2533&show_icons=true&theme=synthwave)
 
 
-<img align="center" alt="Mario" height="200" width="400" src="https://cdn.discordapp.com/attachments/1205127998593048656/1205128052007379004/1566477812413.gif?ex=65d73df5&is=65c4c8f5&hm=c1c73f67503a8e65e31e067f69df74abe82f2d0e137e69fcd864bbb96d96d02f&">
+<img align="right" alt="Mario" height="100" width="100" src="https://i.pinimg.com/originals/f0/86/bf/f086bf3d490cddd0c739f002fd993d5c.gif">
 
 
   <a href="https://instagram.com/fherodriguess_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
