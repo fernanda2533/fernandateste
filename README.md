@@ -3,8 +3,13 @@
 - 📚 Estudando linguagem Java
 - 👩🏻 Pronouns: ela/dela
 
-  
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=fernanda2533&show_icons=true&theme=synthwave)
+
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda2533&layout=compact&theme=synthwave)
+
+
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=fernanda2533&show_icons=true&theme=synthwave) 
+
+
 
 
 <img align="right" alt="Mario" height="100" width="100" src="https://i.pinimg.com/originals/f0/86/bf/f086bf3d490cddd0c739f002fd993d5c.gif">
